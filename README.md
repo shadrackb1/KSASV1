@@ -1,10 +1,8 @@
-﻿# KSASV1
+# KSAS v1
 
-KSAS - Kabarak Smart Attendance
+<img src="./assets/header.svg" width="100%" alt="KSAS v1" />
 
-## Stack
-
-react Â· express Â· vite Â· typescript Â· tailwindcss Â· supabase Â· node
+Kabarak Smart Attendance. Early QR check-in build.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· express Â· vite Â· typescript Â· tailwindcss Â· supabase Â·
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
